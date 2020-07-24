@@ -1,0 +1,96 @@
+html {
+  cursor: url("https://downloads.totallyfreecursors.com/cursor_files/candle1.ani"), url("https://downloads.totallyfreecursors.com/thumbnails/candle1.gif"), auto;
+}
+
+body {
+      background-image: radial-gradient( circle farthest-corner at 10% 20%, rgba(234,13,63,0.77) 4.4%, rgba(255,235,182,1) 59.1% );
+      /*background-image: url("http://www.3dtelepresence.com/hong-kong-to-london-handshake.jpg");
+      background-color: red; */
+      background-size: contain;
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+      height: 100%;
+      
+      
+}
+
+h1{
+  position: relative;
+  top: 1px;
+  color: white;
+  font-family: 'Faster One', cursive;
+  font-size: 2.5vw;
+}
+
+
+a:link {
+  color:white;
+  text-decoration: none;
+  }
+  a:visited {
+  color:blue;
+  text-decoration: none;
+  }
+  a:hover {
+  color:yellow;
+  text-decoration: none;
+  }
+
+
+    h2 {
+      color: white;
+      display: inline-block;
+      position: absolute;
+      left: 2%;
+      top: 33.33%;
+      font-family: 'Nova Mono', monospace;
+      font-size: 2.3vw;
+      text-decoration: none;
+      }
+/*
+h1:hover + h2{
+    display: inline;
+}
+
+*/
+  .row {
+
+position: inherit;
+float: right;
+/*width: 33.33%;*/
+background-color: none;
+padding-top:  1px;
+padding-left:  3px;
+padding-right:  3px;
+position: absolute;
+bottom: 10px;
+right: 10px;
+}
+
+/* Clear floats after the columns */
+/*.row:after {
+content: "";
+display: table;
+clear: both;
+}
+
+*/
+@media screen and (max-width: 600px) {
+  
+   background-image: url("https://d2w9rnfcy7mm78.cloudfront.net/5370007/original_852cadf6ccc2d6af0dc52dfe9eb9efc8.png?1572364834?bc=0");
+   background-size: contain;
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+};
+     
+}
+  
+  
+  .column {
+    width: 100%;
+  }
+}
