@@ -4,10 +4,8 @@ html {
   
   body {
        
-        /*background-image: url("http://www.3dtelepresence.com/hong-kong-to-london-handshake.jpg");
-        background-image: radial-gradient( circle farthest-corner at 10% 20%, rgba(234,13,63,0.77) 4.4%, rgba(255,235,182,1) 59.1% );
-        background-color: red; */
-          background-image: radial-gradient(rgba(255, 0, 0, 0), rgb(121, 255, 172));
+
+          background-image: radial-gradient(rgba(255, 0, 0, 0), rgb(255, 187, 0));
 
         background-size: contain;
         background-position: center center;
